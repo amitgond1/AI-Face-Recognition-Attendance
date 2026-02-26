@@ -248,6 +248,7 @@ EMAIL_PASS=your_gmail_app_password
 - **Similarity Metric**: Cosine Similarity
 - **Recognition Threshold**: 0.60 distance (~60% confidence minimum)
 - **Quality Checks**: Blur (Laplacian variance), Brightness
+  
 
 ---
 
